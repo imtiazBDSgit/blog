@@ -6,12 +6,6 @@
 
 https://imtiazBDSgit.github.io/blog/
 
-# My Blog
-
-
-_powered by [fastpages](https://github.com/fastai/fastpages)_
-
-
 ## What is this blog for?
 
 Great!  That you are here ! I hope these tutorials would be useful to you as they are useful to me. 
